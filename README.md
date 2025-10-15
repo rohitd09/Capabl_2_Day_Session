@@ -1,7 +1,4 @@
-# Project Update Log
-
-## Overview
-This document outlines the recent modifications applied across key components of the project. The updates focus on model upgrades, API configurations, and stability improvements within LangChain agents.
+# Update Log
 
 ---
 
@@ -24,9 +21,17 @@ This document outlines the recent modifications applied across key components of
 
 ---
 
+## Scholarship Assistant Updates
+
+**File:** `ScholarShipAssistantS12.py`
+
+### Changes
+1. **Google API Key Setup in Load and Process PDF**
+2. **Google API Key Integration in LLM and RAG Chain**
+
 ---
 
-## 🤖 LangChain Agent Updates
+## LangChain Agent Updates
 
 **File:** `D2S3agents_in_langchain.ipynb`
 

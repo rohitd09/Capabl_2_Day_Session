@@ -38,7 +38,6 @@
 ### Changes
 1. **Added Stopping Condition in Predefined Prompt**
    - Implemented a termination rule to prevent infinite or recursive prompt loops in agent execution.
-   - Improves reliability during conversational tasks and chained reasoning workflows.
 
 2. **Enabled Parsing Error Handling**
    - Added parameter:

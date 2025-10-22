@@ -1,6 +1,16 @@
 # Update Log
 
+## Update Date: 22/10/2025
+
+## Version Standardization
+
+### Changes
+
+- Standardized all package versions across modules for compatibility and stability.
+- All packages and modules are compatible with langchain v0.3.*.
+
 ---
+## Update Date: 15/10/2025
 
 ## Retriever Module Updates
 
@@ -47,3 +57,7 @@
    - **Impact:** Prevents crashes from malformed or unexpected model outputs, ensuring smoother error recovery and response generation.
 
 ---
+
+## To Do
+
+- Update all the code to LangChain v1.0.* after stable release.

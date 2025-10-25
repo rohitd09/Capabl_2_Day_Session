@@ -1,5 +1,22 @@
 # Update Log
 
+## Update Date: 25/10/2025
+
+## Added Gradio for deployment
+
+**File:** `text_to_sql.ipynb`
+
+### Changes
+
+- Added gradio for deployment of text_to_sql agent.
+
+---
+## Update Date: 15/10/2025
+
+## Retriever Module Updates
+
+**File:** `D1S6Retrievers.ipynb`
+
 ## Update Date: 22/10/2025
 
 ## Version Standardization

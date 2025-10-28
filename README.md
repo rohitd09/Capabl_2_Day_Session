@@ -1,5 +1,17 @@
 # Update Log
 
+## Update Date: 27/10/2025
+
+## Added Python basics
+
+**File:** `Python_coding_basics.ipynb`
+
+### Changes
+
+- Added python basics for students to start simple coding in python before the langchain sessions.
+
+---
+
 ## Update Date: 25/10/2025
 
 ## Added Gradio for deployment
@@ -11,11 +23,6 @@
 - Added gradio for deployment of text_to_sql agent.
 
 ---
-## Update Date: 15/10/2025
-
-## Retriever Module Updates
-
-**File:** `D1S6Retrievers.ipynb`
 
 ## Update Date: 22/10/2025
 
